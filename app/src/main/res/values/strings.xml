@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TOKO FAEYZA</string>
+    <string name="content_price">Rp. 345.000</string>
+    <string name="content_text">Barang yang kami jual terjamin 100% Original
+Dimana harga miring karena stock lama. barang yang kami jual sama standarisasinya dengan yang distore karena satu pabrik dengan produksi brand Coach sendiri. TRUSTED!!!</string>
+    <string name="content_display">Zara</string>
+    <string name="content_dikirim">DKI Jakarta, Kota Jakarta Barat</string>
+    <string name="content_produk"><b>Z31979 Tas Zara Original</b></string>
+    <string name="content_kondisi">Produk Baru</string>
+    <string name="content_kategori">Tas</string>
+    <string name="content_stok">Stok</string>
+    <string name="faeyza">FAEYZA</string>
+    <string name="profil">Profil</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="produk">Produk</string>
+    <string name="_5_photos">5 Photos</string>
+    <string name="kondisi">Kondisi</string>
+    <string name="kategori">Kategori</string>
+    <string name="merek">Merek</string>
+    <string name="stok">Stok</string>
+    <string name="dikirim_dari">Dikirim dari</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="dapatkan_bantuan">Dapatkan bantuan.</string>
+    <string name="pilih_warna">Pilih Warna</string>
+    <string name="merah">Merah</string>
+    <string name="pilih">Pilih</string>
+    <string name="hijau">Hijau</string>
+    <string name="biru">Biru</string>
+    <string name="hitam">Hitam</string>
+    <string name="e_mail">E-mail</string>
+    <string name="toko_faeyza">TOKO FAEYZA</string>
+    <string name="faeyzaa08_gmail_com">faeyzaa08@gmail.com</string>
+    <string name="alamat">Alamat</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_089669346069">089669346069</string>
+    <string name="kalimantan_barat_ketapang_delta_pawan">Kalimantan Barat,Ketapang,Delta Pawan</string>
+    <string name="nama_toko">Nama Toko</string>
+</resources>
